@@ -1,0 +1,1 @@
+# Fashion12K_german_queries
