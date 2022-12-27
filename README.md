@@ -8,6 +8,12 @@ Each row in the dataset consists of three entries:
 - English query,
 - German query.
 
+# Downloading dataset
+
+Dataset can be downloaded:
+
+ - directly via [tsv file](https://github.com/Toloka/Fashion12K_german_queries/blob/main/queries_full_dataset.tsv),
+ - or by using docArray from Jina AI (our collaborator on the project) via this [python script](https://github.com/Toloka/Fashion12K_german_queries/blob/main/dataset_JinaAI_docarray_script.py).
 
 # Acknowledgements
 
